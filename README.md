@@ -9,6 +9,13 @@ A meticulously organized collection of study materials, previous year questions 
 
 ---
 
+## 🔗 Supplemental Resources
+Looking for more? I've compiled a list of massive Google Drive folders containing additional mock tests, video lectures, and question banks.
+
+👉 **[View External Drive Links](./EXTERNAL_RESOURCES.md)**
+
+---
+
 ## 📂 Repository Structure
 
 Follow the learning path from `01` → `05`:
